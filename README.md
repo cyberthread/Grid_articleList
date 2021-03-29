@@ -28,5 +28,5 @@ To do accomplish this task you will need to:
 - Write 3 (and only 3) style rules (or 3 properties)
 
 ## Submission
-- Demonstrate your code working in a brower to your TA or instructor
+- Demonstrate your code working in a browser to your TA or instructor
 - Show the CSS you wrote to your TA or instructor
