@@ -26,7 +26,3 @@ Use the grid-layout module to design a flexible composition for the article list
 To do accomplish this task you will need to:
 - Add the appropriate selector to the CSS in the designated area of the products.css stylesheet
 - Write 3 (and only 3) style rules (or 3 properties)
-
-## Submission
-- Demonstrate your code working in a browser to your TA or instructor
-- Show the CSS you wrote to your TA or instructor
